@@ -38,20 +38,8 @@
 // const singleFruit = fruits.map(fruit => fruit.slice(0, -1).toUpperCase());
 */
 // FILTER
-
-const people = [
-  {
-    id: 1,
-    name: 'Karen'
-  },
-  {
-    id: 2,
-    name: 'Bob'
-  },
-  {
-    id: 3,
-    name: 'Sharon'
-  }
-];
-const people2 = people.filter(person => person.id !== 2);
-console.log(people2);
+/*
+// const people = [{ id: 1, name: 'Karen' }, { id: 2, name: 'Bob' }, { id: 3, name: 'Sharon' }];
+// const people2 = people.filter(person => person.id !== 2);
+// console.log(people2);
+*/
