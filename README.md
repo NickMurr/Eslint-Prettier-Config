@@ -1,4 +1,5 @@
 #ESLint & Prettier
-npm install -D eslint prettier
-npx install-peerdeps --dev eslint-config-airbnb
-npm install -D eslint-config-prettier eslint-plugin-prettier
+
+1. npm install -D eslint prettier
+2. npx install-peerdeps --dev eslint-config-airbnb
+3. npm install -D eslint-config-prettier eslint-plugin-prettier
