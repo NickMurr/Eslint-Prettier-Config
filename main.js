@@ -34,12 +34,42 @@
 */
 
 // MAP
+
 /*
 // const singleFruit = fruits.map(fruit => fruit.slice(0, -1).toUpperCase());
 */
+
 // FILTER
+
 /*
 // const people = [{ id: 1, name: 'Karen' }, { id: 2, name: 'Bob' }, { id: 3, name: 'Sharon' }];
 // const people2 = people.filter(person => person.id !== 2);
 // console.log(people2);
 */
+
+// SPREAD
+
+/*
+// const arr = [1, 2, 3];
+// const arr2 = [...arr, 4];
+// const arr3 = [...arr.filter(num => num !== 2)];
+
+// const person1 = { name: 'Brad', age: 36 };
+// const person2 = { ...person1, email: 'brad@gmail.com' };
+// console.log(arr3);
+*/
+
+// DESTRUCTURING
+/* 
+// const profile = {
+//   name: 'John Doe',
+//   adress: { street: '40 Main Street', city: 'Boston' },
+//   hobbies: ['movies', 'music']
+// };
+
+// // const { name, adress, hobbies } = profile;
+// const { street, city } = profile.adress;
+
+// // console.log(name, adress.street, hobbies[0]);
+// console.log(street, city);
+ */
